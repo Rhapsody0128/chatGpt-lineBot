@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "dev": "node chatGPT.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "chatgpt": "^4.7.2",
+    "linebot": "^1.6.1"
+  }
+}
